@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VirtualKissApp</string>
+    <string name="enviar_mensagem">Enviar Mensagem</string>
+    <string name="receber_mensagem">Receber Mensagem</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="gerar_qr_code">Gerar QR Code</string>
+    <string name="pedir_um_beijo">Pedir um beijo</string>
+    <string name="receber_um_beijo">Receber um beijo</string>
+    <string name="manda_ver_na_cantada">Manda ver na cantada</string>
+</resources>
